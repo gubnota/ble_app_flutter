@@ -2,9 +2,9 @@
 
 BLE app that scans BLE predefined service characteristic and notifies each 10 second its value.
 
-<img src="./README/homescreen.webp" alt="Homescreen" width="240">
-
-![screencast](./README/preview.mp4)
+|                                           video                                           |                              image                               |
+| :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| ![video](https://github.com/user-attachments/assets/28a94e3c-5876-4349-b3e8-bcbb75b99717) | <img src="./README/preview.webp" alt="Chart Screen" width="240"> |
 
 ## Getting Started
 
